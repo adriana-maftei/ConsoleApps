@@ -1,0 +1,8 @@
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\bin\Debug\Roll-a-dice-Game.exe.config
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\bin\Debug\Roll-a-dice-Game.exe
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\bin\Debug\Roll-a-dice-Game.pdb
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\obj\Debug\Roll-a-dice-Game.csproj.AssemblyReference.cache
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\obj\Debug\Roll-a-dice-Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\obj\Debug\Roll-a-dice-Game.csproj.CoreCompileInputs.cache
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\obj\Debug\Roll-a-dice-Game.exe
+C:\Users\mafte\source\repos\Roll-a-dice-Game\Roll-a-dice-Game\obj\Debug\Roll-a-dice-Game.pdb
